@@ -1,5 +1,3 @@
-<div align="center">
-
 # BoutMe
 
 ![Size](https://img.shields.io/github/repo-size/2kabhishek/BoutMe?style=plastic&color=0f0&label=Size)
@@ -12,7 +10,5 @@
 
 An android wrapper for my portfolio site created for demo purposes. Uses custom WebView Client.
 
-</div>
 
-Please consider hitting the ⭐ star button if this repo was useful to you, any contributions and suggestions are welcome.
 
