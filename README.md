@@ -9,6 +9,3 @@
 ![License](https://img.shields.io/github/license/2kabhishek/BoutMe?style=plastic&color=555&label=License)
 
 An android wrapper for my portfolio site created for demo purposes. Uses custom WebView Client.
-
-
-
